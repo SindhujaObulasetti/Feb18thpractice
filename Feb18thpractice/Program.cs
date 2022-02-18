@@ -10,7 +10,7 @@ namespace Feb18thpractice
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Welcome to GIT");
 
         }
     }
